@@ -1,4 +1,5 @@
-I have completed three very interesting projects in SQL.Have a look at them!I promise they are fun to go through! 
+I have completed three very interesting projects in SQL.Have a look at them.
+I promise they are fun to go through! 
 
 A.	When Was the Golden Age of Video Games?
 
@@ -45,6 +46,7 @@ I analyzed the  international debt data collected by The World Bank. The dataset
 •	Which country owns the maximum amount of debt and what does that amount look like?
 •	What is the average amount of debt owed by countries across different debt indicators?
 
+TABLE:
 country_name	country_code	indicator_name	indicator_code	debt
 Afghanistan	AFG	Disbursements on external debt, long-term (DIS, current US$)	DT.DIS.DLXF.CD	72894453.700000003
 Afghanistan	AFG	Interest payments on external debt, long-term (INT, current US$)	DT.INT.DLXF.CD	53239440.10000000
