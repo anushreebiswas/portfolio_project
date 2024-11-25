@@ -1,6 +1,6 @@
 I have completed three very interesting projects in SQL.Have a look at them!I promise they are fun to go through! 
 
-A.	When Was the Golden Age of Video Games?![image](https://github.com/user-attachments/assets/59b72e5b-6479-460f-b26f-936e6df33fa7)
+A.	When Was the Golden Age of Video Games?
 
 Video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027 according to Mordor Intelligence. With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed?
 In this project, we'll explore the top 400 best-selling video games created between 1977 and 2020. We'll compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.
@@ -20,11 +20,11 @@ column	type	meaning
 game	varchar	Name of the video game
 critic_score	float	Critic score according to Metacritic
 user_score	float	User score according to Metacritic
-![image](https://github.com/user-attachments/assets/7382fada-9e47-414d-afd9-fe61a068d614)
 
 
 
-B. 	Analyzing American Baby Name Trends![image](https://github.com/user-attachments/assets/207375f4-afce-45e3-a6a3-5f92aca16e18)
+
+B. 	Analyzing American Baby Name Trends
                                                             
 How have American baby name tastes changed since 1920? Which names have remained popular for over 100 years, and how do those names compare to more recent top baby names? These are considerations for many new parents, but the skills we'll practice while answering these queries are broadly applicable. After all, understanding trends and popularity is important for many businesses, too!
 This data was originally provided by the United States Social Security Administration but the preprocessed data has been taken from Izzy Weber at Data Camp. It lists first names along with the number and sex of babies they were given to in each year. For processing speed purposes, we've limited the dataset to first names which were given to over 5,000 American babies in a given year. Our data spans 101 years, from 1920 through 2020.
@@ -37,7 +37,7 @@ sex	varchar	sex of babies given first_name
 num	int	number of babies of sex given first_name in that year
 
 
-c. The World Bank's international debt data![image](https://github.com/user-attachments/assets/3b5c5bf8-f919-42e9-a967-bca9b46c625c)
+c. The World Bank's international debt data
 
 It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
 I analyzed the  international debt data collected by The World Bank. The dataset(taken from Sayak Paul at Data Camp) contains information about the amount of debt (in USD) owed by developing countries across several categories. We are going to find the answers to questions like:
